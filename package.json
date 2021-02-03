@@ -1,0 +1,17 @@
+{
+  "name": "CIM",
+  "version": "0.0.1",
+  "description": "Code Interval Musique",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "",
+    "build": "rollup -c",
+    "help": "rollup --help"
+  },
+  "author": "Éric Chicot",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.38.3",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
