@@ -14,6 +14,7 @@ Gamme Majeure mode Ionien : Do Ré Mi Fa Sol La Si
 
 CIM Gamme Majeure mode Ionien = 512 + 128 + 64 + 16 + 4 + 1 = **725**
 
+
 **Code Interval Music**
 
 Lists scales, chords and intervals by an index corresponding to the binary sum of the intervals between the root and the octave.
@@ -27,3 +28,7 @@ Scale major mode Ionian : C D E F G A B C
 |Result|-|-|512|-|128|64|-|16|-|4|-|1|-|
 
 CIM Scale major mode Ionian = 512 + 128 + 64 + 16 + 4 + 1 = **725**
+
+**Source & inspiration**
++ [La partition intérieure de Jacque Siron](https://www.siron.name/livres_PI.html)
++ [Lucy Tuning](https://www.lucytune.com/scales/)
