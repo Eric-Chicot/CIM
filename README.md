@@ -34,4 +34,4 @@ CIM Scale major mode Ionian = 512 + 128 + 64 + 16 + 4 + 1 = **725**
 + [Lucy Tuning](https://www.lucytune.com/scales/)
 
 **Application**
-+ [Interval] (http://ecc.free.fr/interval)
++ [Interval](http://ecc.free.fr/interval)
