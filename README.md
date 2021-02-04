@@ -32,6 +32,7 @@ CIM Scale major mode Ionian = 512 + 128 + 64 + 16 + 4 + 1 = **725**
 **Source & inspiration**
 + [La partition intérieure de Jacque Siron](https://www.siron.name/livres_PI.html)
 + [Lucy Tuning](https://www.lucytune.com/scales/)
++ [Ian Ring](https://ianring.com/musictheory/scales/)
 
 **Application**
 + [Interval](http://ecc.free.fr/interval)
